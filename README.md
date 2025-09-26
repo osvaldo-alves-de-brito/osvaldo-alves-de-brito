@@ -14,7 +14,7 @@
 ---
 
 ## 🌐 Onde me encontrar
-- [LinkedIn](https://www.linkedin.com](https://www.linkedin.com/in/osvaldo-alves-de-brito-457842252/)  
+- [LinkedIn](https://www.linkedin.com/in/osvaldo-alves-de-brito-457842252/)  
 - [Portfólio](https://github.com/osvaldo-alves-de-brito)  
 - 📫 Email: **osvaldoalvesbrito789@gmail.com**
 
