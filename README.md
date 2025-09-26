@@ -14,9 +14,9 @@
 ---
 
 ## 🌐 Onde me encontrar
-- [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/osvaldo-alves-de-brito-457842252/))  
+- [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/osvaldo-alves-de-brito-457842252/]))  
 - [Portfólio](https://github.com/osvaldo-alves-de-brito)  
-- 📫 Email: **seuemail@email.com**
+- 📫 Email: **osvaldoalvesbrito789@gmail.com**
 
 <!--
 **osvaldo-alves-de-brito/osvaldo-alves-de-brito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
