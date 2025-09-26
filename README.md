@@ -17,20 +17,10 @@
 
 ---
 
-## 📊 Estatísticas
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dracula)
-
----
-
 ## 🌐 Onde me encontrar
-- [LinkedIn](https://www.linkedin.com)  
-- [Portfólio](https://github.com/SEU-USUARIO)  
+- [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/osvaldo-alves-de-brito-457842252/))  
+- [Portfólio](https://github.com/osvaldo-alves-de-brito)  
 - 📫 Email: **seuemail@email.com**
-
----
-⭐ Se curtiu algum dos meus projetos, não esquece de dar uma estrela!
-
 
 <!--
 **osvaldo-alves-de-brito/osvaldo-alves-de-brito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
