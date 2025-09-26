@@ -3,10 +3,6 @@
 🎓 Estudante de **Engenharia da Computação** (6º termo)  
 💻 Interessado em **desenvolvimento de software, eletrônica e microcontroladores**  
 🌱 Atualmente aprendendo **Android (Java), C++ com Qt e bancos de dados**  
-🚀 Trabalhando em projetos como:
-- Aplicativo para **gestão agrícola**  
-- Sistema para **clínicas médicas**  
-- Banco de dados para **lojas de livros**
 
 ---
 
